@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "M40JGYfofGQ=",
+  "dgSpecHash": "m6hbWQHl1/M=",
   "success": true,
   "projectFilePath": "/home/will/A MyDoc/project/project/project-6-dotnet-eshop-microservices/eshop/Catalog/Catalog.API/Catalog.API.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/will/.nuget/packages/mediatr/14.1.0/mediatr.14.1.0.nupkg.sha512",
+    "/home/will/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
+    "/home/will/.nuget/packages/microsoft.identitymodel.abstractions/8.14.0/microsoft.identitymodel.abstractions.8.14.0.nupkg.sha512",
+    "/home/will/.nuget/packages/microsoft.identitymodel.jsonwebtokens/8.14.0/microsoft.identitymodel.jsonwebtokens.8.14.0.nupkg.sha512",
+    "/home/will/.nuget/packages/microsoft.identitymodel.logging/8.14.0/microsoft.identitymodel.logging.8.14.0.nupkg.sha512",
+    "/home/will/.nuget/packages/microsoft.identitymodel.tokens/8.14.0/microsoft.identitymodel.tokens.8.14.0.nupkg.sha512"
+  ],
   "logs": []
 }
