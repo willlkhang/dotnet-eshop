@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/will/A MyDoc/project/project/project-6-dotnet-eshop-microservices/src/Services/Catalog/Catalog.csproj",
-      "projectName": "Catalog",
-      "projectPath": "/home/will/A MyDoc/project/project/project-6-dotnet-eshop-microservices/src/Services/Catalog/Catalog.csproj",
+      "projectUniqueName": "/home/will/A MyDoc/project/project/project-6-dotnet-eshop-microservices/src/Services/Catalog/Catalog.API/Catalog.API.csproj",
+      "projectName": "Catalog.API",
+      "projectPath": "/home/will/A MyDoc/project/project/project-6-dotnet-eshop-microservices/src/Services/Catalog/Catalog.API/Catalog.API.csproj",
       "packagesPath": "/home/will/.nuget/packages/",
-      "outputPath": "/home/will/A MyDoc/project/project/project-6-dotnet-eshop-microservices/src/Services/Catalog/obj/",
+      "outputPath": "/home/will/A MyDoc/project/project/project-6-dotnet-eshop-microservices/src/Services/Catalog/Catalog.API/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/will/.nuget/NuGet/NuGet.Config"
