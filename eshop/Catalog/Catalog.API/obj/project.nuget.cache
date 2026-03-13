@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "m6hbWQHl1/M=",
+  "dgSpecHash": "RczYZAqkOas=",
   "success": true,
   "projectFilePath": "/home/will/A MyDoc/project/project/project-6-dotnet-eshop-microservices/eshop/Catalog/Catalog.API/Catalog.API.csproj",
   "expectedPackageFiles": [
@@ -9,7 +9,8 @@
     "/home/will/.nuget/packages/microsoft.identitymodel.abstractions/8.14.0/microsoft.identitymodel.abstractions.8.14.0.nupkg.sha512",
     "/home/will/.nuget/packages/microsoft.identitymodel.jsonwebtokens/8.14.0/microsoft.identitymodel.jsonwebtokens.8.14.0.nupkg.sha512",
     "/home/will/.nuget/packages/microsoft.identitymodel.logging/8.14.0/microsoft.identitymodel.logging.8.14.0.nupkg.sha512",
-    "/home/will/.nuget/packages/microsoft.identitymodel.tokens/8.14.0/microsoft.identitymodel.tokens.8.14.0.nupkg.sha512"
+    "/home/will/.nuget/packages/microsoft.identitymodel.tokens/8.14.0/microsoft.identitymodel.tokens.8.14.0.nupkg.sha512",
+    "/home/will/.nuget/packages/microsoft.visualstudio.azure.containers.tools.targets/1.23.0/microsoft.visualstudio.azure.containers.tools.targets.1.23.0.nupkg.sha512"
   ],
   "logs": []
 }
