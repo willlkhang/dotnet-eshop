@@ -8,12 +8,6 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <Content Include="..\..\.dockerignore">
-        <Link>.dockerignore</Link>
-      </Content>
-    </ItemGroup>
-
-    <ItemGroup>
       <PackageReference Include="Carter" Version="10.0.0" />
       <PackageReference Include="Marten" Version="8.24.0" />
 <!--      <PackageReference Include="MediatR" Version="14.1.0" />-->
@@ -30,6 +24,12 @@
       <Folder Include="Products\GetProductById\" />
       <Folder Include="Products\GetProducts\" />
       <Folder Include="Products\UpdateProduct\" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Content Include="..\..\.dockerignore">
+        <Link>.dockerignore</Link>
+      </Content>
     </ItemGroup>
 
 </Project>

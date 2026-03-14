@@ -14,9 +14,9 @@ public class CreateProductEndpoint : ICarterModule
     public void AddRoutes(IEndpointRouteBuilder app)
     {
         app.MapPost("/products", 
-                async (CreateProductRequest request, ISender sender) =>
+                async (CreateProductRequest request, ISender sender) => //request from user
             {
-                var command = request.Adapt<CreateProductCommand>(); //Thi is mapper
+                var command = request.Adapt<CreateProductCommand>(); //Thi is mapper for DTO
 
                 var result = await sender.Send(command); //send to handler
 

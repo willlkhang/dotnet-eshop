@@ -25,6 +25,6 @@ internal class CreateProductHandler(IDocumentSession session)
         await session.SaveChangesAsync(cancellationToken);
         
         //return createProductResult result
-        return new CreateProductResult(Guid.NewGuid());
+        return new CreateProductResult(product.Id);
     }
 }
