@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "4q5d3tEJ8hc=",
+  "dgSpecHash": "qnIDDB1HchU=",
   "success": true,
   "projectFilePath": "/home/will/A MyDoc/project/project/project-6-dotnet-eshop-microservices/eshop/BuildingBlocks/BuildingBlocks/BuildingBlocks.csproj",
   "expectedPackageFiles": [
+    "/home/will/.nuget/packages/mapster/10.0.0-pre02/mapster.10.0.0-pre02.nupkg.sha512",
+    "/home/will/.nuget/packages/mapster.core/10.0.0-pre02/mapster.core.10.0.0-pre02.nupkg.sha512",
     "/home/will/.nuget/packages/mediatr/14.1.0/mediatr.14.1.0.nupkg.sha512",
     "/home/will/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
     "/home/will/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/10.0.0/microsoft.extensions.dependencyinjection.abstractions.10.0.0.nupkg.sha512",

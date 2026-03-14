@@ -45,6 +45,10 @@
         "net10.0": {
           "targetAlias": "net10.0",
           "dependencies": {
+            "Mapster": {
+              "target": "Package",
+              "version": "[10.0.0-pre02, )"
+            },
             "MediatR": {
               "target": "Package",
               "version": "[14.1.0, )"
@@ -389,9 +393,13 @@
         "net10.0": {
           "targetAlias": "net10.0",
           "dependencies": {
-            "MediatR": {
+            "Carter": {
               "target": "Package",
-              "version": "[14.1.0, )"
+              "version": "[10.0.0, )"
+            },
+            "Marten": {
+              "target": "Package",
+              "version": "[8.24.0, )"
             },
             "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
               "target": "Package",

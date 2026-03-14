@@ -1,0 +1,13 @@
+/home/will/A MyDoc/project/project/project-6-dotnet-eshop-microservices/eshop/BuildingBlocks/BuildingBlocks/bin/Debug/net10.0/BuildingBlocks.deps.json
+/home/will/A MyDoc/project/project/project-6-dotnet-eshop-microservices/eshop/BuildingBlocks/BuildingBlocks/bin/Debug/net10.0/BuildingBlocks.dll
+/home/will/A MyDoc/project/project/project-6-dotnet-eshop-microservices/eshop/BuildingBlocks/BuildingBlocks/bin/Debug/net10.0/BuildingBlocks.pdb
+/home/will/A MyDoc/project/project/project-6-dotnet-eshop-microservices/eshop/BuildingBlocks/BuildingBlocks/obj/Debug/net10.0/BuildingBlocks.csproj.AssemblyReference.cache
+/home/will/A MyDoc/project/project/project-6-dotnet-eshop-microservices/eshop/BuildingBlocks/BuildingBlocks/obj/Debug/net10.0/BuildingBlocks.GeneratedMSBuildEditorConfig.editorconfig
+/home/will/A MyDoc/project/project/project-6-dotnet-eshop-microservices/eshop/BuildingBlocks/BuildingBlocks/obj/Debug/net10.0/BuildingBlocks.AssemblyInfoInputs.cache
+/home/will/A MyDoc/project/project/project-6-dotnet-eshop-microservices/eshop/BuildingBlocks/BuildingBlocks/obj/Debug/net10.0/BuildingBlocks.AssemblyInfo.cs
+/home/will/A MyDoc/project/project/project-6-dotnet-eshop-microservices/eshop/BuildingBlocks/BuildingBlocks/obj/Debug/net10.0/BuildingBlocks.csproj.CoreCompileInputs.cache
+/home/will/A MyDoc/project/project/project-6-dotnet-eshop-microservices/eshop/BuildingBlocks/BuildingBlocks/obj/Debug/net10.0/BuildingBlocks.sourcelink.json
+/home/will/A MyDoc/project/project/project-6-dotnet-eshop-microservices/eshop/BuildingBlocks/BuildingBlocks/obj/Debug/net10.0/BuildingBlocks.dll
+/home/will/A MyDoc/project/project/project-6-dotnet-eshop-microservices/eshop/BuildingBlocks/BuildingBlocks/obj/Debug/net10.0/refint/BuildingBlocks.dll
+/home/will/A MyDoc/project/project/project-6-dotnet-eshop-microservices/eshop/BuildingBlocks/BuildingBlocks/obj/Debug/net10.0/BuildingBlocks.pdb
+/home/will/A MyDoc/project/project/project-6-dotnet-eshop-microservices/eshop/BuildingBlocks/BuildingBlocks/obj/Debug/net10.0/ref/BuildingBlocks.dll
