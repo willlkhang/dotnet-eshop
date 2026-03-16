@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/will/A MyDoc/project/project/project-6-dotnet-eshop-microservices/eshop/Basket/Basket.csproj",
-      "projectName": "Basket",
-      "projectPath": "/home/will/A MyDoc/project/project/project-6-dotnet-eshop-microservices/eshop/Basket/Basket.csproj",
+      "projectUniqueName": "/home/will/A MyDoc/project/project/project-6-dotnet-eshop-microservices/eshop/Basket.API/Basket.API.csproj",
+      "projectName": "Basket.API",
+      "projectPath": "/home/will/A MyDoc/project/project/project-6-dotnet-eshop-microservices/eshop/Basket.API/Basket.API.csproj",
       "packagesPath": "/home/will/.nuget/packages/",
-      "outputPath": "/home/will/A MyDoc/project/project/project-6-dotnet-eshop-microservices/eshop/Basket/obj/",
+      "outputPath": "/home/will/A MyDoc/project/project/project-6-dotnet-eshop-microservices/eshop/Basket.API/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/will/.nuget/NuGet/NuGet.Config"
