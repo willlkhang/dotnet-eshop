@@ -1,15 +1,19 @@
+using BuildingBlocks.Behaviours;
 using FluentValidation;
 
 var builder = WebApplication.CreateBuilder(args);
 
 //add Services to the container
-builder.Services.AddCarter();
+
+var assembly = typeof(Program).Assembly;
 builder.Services.AddMediatR(config =>
 {
-    config.RegisterServicesFromAssembly(typeof(Program).Assembly);
+    config.RegisterServicesFromAssembly(assembly);
+    config.AddOpenBehavior(typeof(ValidationBehaviour<,>));
 });
+builder.Services.AddValidatorsFromAssembly(assembly);
 
-builder.Services.AddValidatorsFromAssembly(typeof(Program).Assembly);
+builder.Services.AddCarter();
 
 builder.Services.AddMarten(opts =>
 {
@@ -20,5 +24,6 @@ var app = builder.Build();
 
 //configure the HTTP request pipeline
 app.MapCarter();
+app.UseExceptionHandler(options => { });
 
 app.Run();

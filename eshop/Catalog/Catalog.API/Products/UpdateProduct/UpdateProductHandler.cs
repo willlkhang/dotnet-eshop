@@ -2,8 +2,18 @@ namespace Catalog.API.Products.UpdateProduct;
 
 public record UpdateProductCommand(Guid Id, string Name, List<string> Category, string Description, string ImageFile, decimal Price)
     : ICommand<UpdateProductResult>;
-
 public record UpdateProductResult(bool IsSuccess);
+
+public class UpdateProductCommandValidator : AbstractValidator<UpdateProductCommand>
+{
+    public UpdateProductCommandValidator()
+    {
+        RuleFor(command => command.Id).NotEmpty().WithMessage("Id cannot be empty");
+        RuleFor(command => command.Name).NotEmpty().WithMessage("Name cannot be empty")
+            .Length(2, 100).WithMessage("Name must have between 2 and 100 characters");
+        RuleFor(command => command.Price).GreaterThan(0).WithMessage("Category cannot be empty");
+    }
+}
 
 internal class UpdateProductCommandHandler
     (IDocumentSession session, ILogger<UpdateProductCommandHandler> logger)
