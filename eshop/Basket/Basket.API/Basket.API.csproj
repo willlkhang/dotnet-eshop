@@ -1,0 +1,33 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+    <PropertyGroup>
+        <TargetFramework>net10.0</TargetFramework>
+        <Nullable>enable</Nullable>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
+        <RootNamespace>Basket</RootNamespace>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <Content Include="..\.dockerignore">
+        <Link>.dockerignore</Link>
+      </Content>
+    </ItemGroup>
+
+    <ItemGroup>
+      <PackageReference Include="AspNetCore.HealthChecks.NpgSql" Version="9.0.0" />
+      <PackageReference Include="AspNetCore.HealthChecks.Redis" Version="9.0.0" />
+      <PackageReference Include="AspNetCore.HealthChecks.UI.Client" Version="9.0.0" />
+      <PackageReference Include="Carter" Version="10.0.0" />
+      <PackageReference Include="Grpc.AspNetCore" Version="2.76.0" />
+      <PackageReference Include="Marten" Version="8.24.0" />
+      <PackageReference Include="Microsoft.Extensions.Caching.StackExchangeRedis" Version="11.0.0-preview.2.26159.112" />
+      <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.23.0" />
+      <PackageReference Include="Scrutor" Version="7.0.0" />
+    </ItemGroup>
+
+    <ItemGroup>
+        <ProjectReference Include="..\..\BuildingBlocks\BuildingBlocks\BuildingBlocks.csproj" />
+    </ItemGroup>
+
+</Project>
