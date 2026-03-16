@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "/U2Ra+zfGgs=",
+  "dgSpecHash": "Sxz9ArQ5eT0=",
   "success": true,
   "projectFilePath": "/home/will/A MyDoc/project/project/project-6-dotnet-eshop-microservices/eshop/Catalog/Catalog.API/Catalog.API.csproj",
   "expectedPackageFiles": [
+    "/home/will/.nuget/packages/aspnetcore.healthchecks.npgsql/9.0.0/aspnetcore.healthchecks.npgsql.9.0.0.nupkg.sha512",
+    "/home/will/.nuget/packages/aspnetcore.healthchecks.ui.client/9.0.0/aspnetcore.healthchecks.ui.client.9.0.0.nupkg.sha512",
+    "/home/will/.nuget/packages/aspnetcore.healthchecks.ui.core/9.0.0/aspnetcore.healthchecks.ui.core.9.0.0.nupkg.sha512",
     "/home/will/.nuget/packages/carter/10.0.0/carter.10.0.0.nupkg.sha512",
     "/home/will/.nuget/packages/carter.analyzers/10.0.0/carter.analyzers.10.0.0.nupkg.sha512",
     "/home/will/.nuget/packages/distributedlock.core/1.0.8/distributedlock.core.1.0.8.nupkg.sha512",
