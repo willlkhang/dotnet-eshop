@@ -24,6 +24,7 @@ var app = builder.Build();
 
 //configure the HTTP request pipeline
 app.MapCarter();
+
 app.UseExceptionHandler(options => { });
 
 app.Run();
