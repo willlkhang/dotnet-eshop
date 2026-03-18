@@ -22,6 +22,13 @@ builder.Services.AddMarten(opts =>
     opts.Schema.For<ShoppingCart>().Identity(x => x.UserName);
 }).UseLightweightSessions();
 
+builder.Services.AddScoped<IBasketRepository, BasketRepository>();
+builder.Services.Decorate<IBasketRepository, CachedBasketRepository>();
+
+builder.Services.AddStackExchangeRedisCache(options =>
+{
+    options.Configuration = builder.Configuration.GetConnectionString("Redis");
+});
 
 builder.Services.AddExceptionHandler<CustomExceptionHandler>();
 
@@ -29,10 +36,8 @@ builder.Services.AddExceptionHandler<CustomExceptionHandler>();
 //     .AddNpgSql(builder.Configuration.GetConnectionString("Database")!);
 
 var app = builder.Build();
-
 //configure the HTTP request pipeline
 app.MapCarter();
-
 app.UseExceptionHandler(options => { });
 // app.UseHealthChecks("/health", 
 //     new HealthCheckOptions
