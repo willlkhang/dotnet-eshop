@@ -13,6 +13,7 @@ builder.Services.AddGrpcReflection();
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
+app.UseMigration();
 app.MapGrpcService<DiscountService>();
 app.MapGet("/",
     () =>
