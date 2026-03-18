@@ -1,0 +1,1 @@
+/home/will/A MyDoc/project/project/project-6-dotnet-eshop-microservices/eshop/obj/Debug/docker-compose.dcproj.CoreCompileInputs.cache

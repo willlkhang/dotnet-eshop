@@ -1,18 +1,32 @@
 {
   "version": 2,
-  "dgSpecHash": "qzVXhFNIW9U=",
+  "dgSpecHash": "jOI+E3A4Uxk=",
   "success": true,
   "projectFilePath": "/home/will/A MyDoc/project/project/project-6-dotnet-eshop-microservices/eshop/Discount/Discount.Grpc/Discount.Grpc.csproj",
   "expectedPackageFiles": [
-    "/home/will/.nuget/packages/google.protobuf/3.27.0/google.protobuf.3.27.0.nupkg.sha512",
+    "/home/will/.nuget/packages/google.protobuf/3.31.1/google.protobuf.3.31.1.nupkg.sha512",
     "/home/will/.nuget/packages/grpc.aspnetcore/2.64.0/grpc.aspnetcore.2.64.0.nupkg.sha512",
-    "/home/will/.nuget/packages/grpc.aspnetcore.server/2.64.0/grpc.aspnetcore.server.2.64.0.nupkg.sha512",
+    "/home/will/.nuget/packages/grpc.aspnetcore.server/2.76.0/grpc.aspnetcore.server.2.76.0.nupkg.sha512",
     "/home/will/.nuget/packages/grpc.aspnetcore.server.clientfactory/2.64.0/grpc.aspnetcore.server.clientfactory.2.64.0.nupkg.sha512",
-    "/home/will/.nuget/packages/grpc.core.api/2.64.0/grpc.core.api.2.64.0.nupkg.sha512",
+    "/home/will/.nuget/packages/grpc.aspnetcore.server.reflection/2.76.0/grpc.aspnetcore.server.reflection.2.76.0.nupkg.sha512",
+    "/home/will/.nuget/packages/grpc.core.api/2.76.0/grpc.core.api.2.76.0.nupkg.sha512",
     "/home/will/.nuget/packages/grpc.net.client/2.64.0/grpc.net.client.2.64.0.nupkg.sha512",
     "/home/will/.nuget/packages/grpc.net.clientfactory/2.64.0/grpc.net.clientfactory.2.64.0.nupkg.sha512",
-    "/home/will/.nuget/packages/grpc.net.common/2.64.0/grpc.net.common.2.64.0.nupkg.sha512",
-    "/home/will/.nuget/packages/grpc.tools/2.64.0/grpc.tools.2.64.0.nupkg.sha512"
+    "/home/will/.nuget/packages/grpc.net.common/2.76.0/grpc.net.common.2.76.0.nupkg.sha512",
+    "/home/will/.nuget/packages/grpc.reflection/2.76.0/grpc.reflection.2.76.0.nupkg.sha512",
+    "/home/will/.nuget/packages/grpc.tools/2.64.0/grpc.tools.2.64.0.nupkg.sha512",
+    "/home/will/.nuget/packages/microsoft.data.sqlite.core/10.0.5/microsoft.data.sqlite.core.10.0.5.nupkg.sha512",
+    "/home/will/.nuget/packages/microsoft.entityframeworkcore/10.0.5/microsoft.entityframeworkcore.10.0.5.nupkg.sha512",
+    "/home/will/.nuget/packages/microsoft.entityframeworkcore.abstractions/10.0.5/microsoft.entityframeworkcore.abstractions.10.0.5.nupkg.sha512",
+    "/home/will/.nuget/packages/microsoft.entityframeworkcore.analyzers/10.0.5/microsoft.entityframeworkcore.analyzers.10.0.5.nupkg.sha512",
+    "/home/will/.nuget/packages/microsoft.entityframeworkcore.relational/10.0.5/microsoft.entityframeworkcore.relational.10.0.5.nupkg.sha512",
+    "/home/will/.nuget/packages/microsoft.entityframeworkcore.sqlite/10.0.5/microsoft.entityframeworkcore.sqlite.10.0.5.nupkg.sha512",
+    "/home/will/.nuget/packages/microsoft.entityframeworkcore.sqlite.core/10.0.5/microsoft.entityframeworkcore.sqlite.core.10.0.5.nupkg.sha512",
+    "/home/will/.nuget/packages/microsoft.extensions.dependencymodel/10.0.5/microsoft.extensions.dependencymodel.10.0.5.nupkg.sha512",
+    "/home/will/.nuget/packages/sqlitepclraw.bundle_e_sqlite3/2.1.11/sqlitepclraw.bundle_e_sqlite3.2.1.11.nupkg.sha512",
+    "/home/will/.nuget/packages/sqlitepclraw.core/2.1.11/sqlitepclraw.core.2.1.11.nupkg.sha512",
+    "/home/will/.nuget/packages/sqlitepclraw.lib.e_sqlite3/2.1.11/sqlitepclraw.lib.e_sqlite3.2.1.11.nupkg.sha512",
+    "/home/will/.nuget/packages/sqlitepclraw.provider.e_sqlite3/2.1.11/sqlitepclraw.provider.e_sqlite3.2.1.11.nupkg.sha512"
   ],
   "logs": []
 }
