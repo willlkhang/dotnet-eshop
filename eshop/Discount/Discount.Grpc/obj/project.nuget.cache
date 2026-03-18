@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "v0Sch5a4Y6U=",
+  "dgSpecHash": "8Wv2phA2aO8=",
   "success": true,
   "projectFilePath": "/home/will/A MyDoc/project/project/project-6-dotnet-eshop-microservices/eshop/Discount/Discount.Grpc/Discount.Grpc.csproj",
   "expectedPackageFiles": [
@@ -16,6 +16,8 @@
     "/home/will/.nuget/packages/grpc.reflection/2.76.0/grpc.reflection.2.76.0.nupkg.sha512",
     "/home/will/.nuget/packages/grpc.tools/2.64.0/grpc.tools.2.64.0.nupkg.sha512",
     "/home/will/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
+    "/home/will/.nuget/packages/mapster/10.0.0/mapster.10.0.0.nupkg.sha512",
+    "/home/will/.nuget/packages/mapster.core/10.0.0/mapster.core.10.0.0.nupkg.sha512",
     "/home/will/.nuget/packages/microsoft.build.framework/18.0.2/microsoft.build.framework.18.0.2.nupkg.sha512",
     "/home/will/.nuget/packages/microsoft.codeanalysis.analyzers/3.11.0/microsoft.codeanalysis.analyzers.3.11.0.nupkg.sha512",
     "/home/will/.nuget/packages/microsoft.codeanalysis.common/5.0.0/microsoft.codeanalysis.common.5.0.0.nupkg.sha512",
