@@ -24,6 +24,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Ordering", "Ordering", "{8E
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ordering.API", "Ordering\Ordering.API\Ordering.API.csproj", "{A83C14FB-1F13-4E9E-8F00-F6438429E609}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ordering.Domain", "Ordering\Ordering.Domain\Ordering.Domain.csproj", "{86F01077-EA02-4BF8-A0EB-F9969BF40C8D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,7 @@ Global
 		{FB0B23F3-8597-45F7-9882-593CC1EC4DF2} = {8D397D2E-70D4-41B6-9A79-6607EA78E4D6}
 		{8E3FA62B-E60D-49E8-8E84-E1CC0EA1E349} = {DE2A4FFB-A88C-4461-BEF0-8BA061B3BF89}
 		{A83C14FB-1F13-4E9E-8F00-F6438429E609} = {8E3FA62B-E60D-49E8-8E84-E1CC0EA1E349}
+		{86F01077-EA02-4BF8-A0EB-F9969BF40C8D} = {8E3FA62B-E60D-49E8-8E84-E1CC0EA1E349}
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{3A526CA4-A4C2-4C79-93CB-D102A9C4B700}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -65,5 +68,9 @@ Global
 		{A83C14FB-1F13-4E9E-8F00-F6438429E609}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A83C14FB-1F13-4E9E-8F00-F6438429E609}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A83C14FB-1F13-4E9E-8F00-F6438429E609}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86F01077-EA02-4BF8-A0EB-F9969BF40C8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86F01077-EA02-4BF8-A0EB-F9969BF40C8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86F01077-EA02-4BF8-A0EB-F9969BF40C8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86F01077-EA02-4BF8-A0EB-F9969BF40C8D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
