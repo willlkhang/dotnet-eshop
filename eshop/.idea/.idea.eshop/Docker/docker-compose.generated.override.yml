@@ -36,3 +36,21 @@ services:
     - "/home/will/A MyDoc/project/project/project-6-dotnet-eshop-microservices/eshop:/src:rw"
     - "/home/will/.nuget/packages:/home/app/.nuget/packages"
     working_dir: "/app"
+  discount.grpc:
+    build:
+      context: "/home/will/A MyDoc/project/project/project-6-dotnet-eshop-microservices/eshop"
+      dockerfile: "Discount/Discount.Grpc/Dockerfile"
+      target: "base"
+    command: []
+    entrypoint:
+    - "dotnet"
+    - "/app/bin/Debug/net10.0/Discount.Grpc.dll"
+    environment:
+      DOTNET_USE_POLLING_FILE_WATCHER: "true"
+    image: "discount.grpc:dev"
+    ports: []
+    volumes:
+    - "/home/will/A MyDoc/project/project/project-6-dotnet-eshop-microservices/eshop/Discount/Discount.Grpc:/app:rw"
+    - "/home/will/A MyDoc/project/project/project-6-dotnet-eshop-microservices/eshop:/src:rw"
+    - "/home/will/.nuget/packages:/home/app/.nuget/packages"
+    working_dir: "/app"

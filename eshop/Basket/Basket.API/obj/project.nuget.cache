@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "1Ng3kAR+jOQ=",
+  "dgSpecHash": "tUv2rISc9Gw=",
   "success": true,
   "projectFilePath": "/home/will/A MyDoc/project/project/project-6-dotnet-eshop-microservices/eshop/Basket/Basket.API/Basket.API.csproj",
   "expectedPackageFiles": [
@@ -17,7 +17,7 @@
     "/home/will/.nuget/packages/fluentvalidation.aspnetcore/11.3.1/fluentvalidation.aspnetcore.11.3.1.nupkg.sha512",
     "/home/will/.nuget/packages/fluentvalidation.dependencyinjectionextensions/12.1.1/fluentvalidation.dependencyinjectionextensions.12.1.1.nupkg.sha512",
     "/home/will/.nuget/packages/fsharp.core/9.0.100/fsharp.core.9.0.100.nupkg.sha512",
-    "/home/will/.nuget/packages/google.protobuf/3.31.1/google.protobuf.3.31.1.nupkg.sha512",
+    "/home/will/.nuget/packages/google.protobuf/3.34.0/google.protobuf.3.34.0.nupkg.sha512",
     "/home/will/.nuget/packages/grpc.aspnetcore/2.76.0/grpc.aspnetcore.2.76.0.nupkg.sha512",
     "/home/will/.nuget/packages/grpc.aspnetcore.server/2.76.0/grpc.aspnetcore.server.2.76.0.nupkg.sha512",
     "/home/will/.nuget/packages/grpc.aspnetcore.server.clientfactory/2.76.0/grpc.aspnetcore.server.clientfactory.2.76.0.nupkg.sha512",
@@ -25,7 +25,7 @@
     "/home/will/.nuget/packages/grpc.net.client/2.76.0/grpc.net.client.2.76.0.nupkg.sha512",
     "/home/will/.nuget/packages/grpc.net.clientfactory/2.76.0/grpc.net.clientfactory.2.76.0.nupkg.sha512",
     "/home/will/.nuget/packages/grpc.net.common/2.76.0/grpc.net.common.2.76.0.nupkg.sha512",
-    "/home/will/.nuget/packages/grpc.tools/2.76.0/grpc.tools.2.76.0.nupkg.sha512",
+    "/home/will/.nuget/packages/grpc.tools/2.80.0-pre1/grpc.tools.2.80.0-pre1.nupkg.sha512",
     "/home/will/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
     "/home/will/.nuget/packages/imtools/4.0.0/imtools.4.0.0.nupkg.sha512",
     "/home/will/.nuget/packages/jasperfx/1.21.0/jasperfx.1.21.0.nupkg.sha512",
