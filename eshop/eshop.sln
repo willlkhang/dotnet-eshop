@@ -27,6 +27,10 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ordering.Domain", "Ordering\Ordering.Domain\Ordering.Domain.csproj", "{86F01077-EA02-4BF8-A0EB-F9969BF40C8D}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ordering.Application", "Ordering\Ordering.Application\Ordering.Application.csproj", "{DE1A616B-F228-4848-8A68-42EA4151845D}"
+	ProjectSection(ProjectDependencies) = postProject
+		{86F01077-EA02-4BF8-A0EB-F9969BF40C8D} = {86F01077-EA02-4BF8-A0EB-F9969BF40C8D}
+		{ED46C6E9-BFCC-4401-B516-8829CE2815C1} = {ED46C6E9-BFCC-4401-B516-8829CE2815C1}
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ordering.Infrastructure", "Ordering\Ordering.Infrastructure\Ordering.Infrastructure.csproj", "{349659C9-4B6E-421D-9610-41F5EF32180B}"
 EndProject
