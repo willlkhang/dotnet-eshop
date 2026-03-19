@@ -1,0 +1,6 @@
+/home/will/A MyDoc/project/project/project-6-dotnet-eshop-microservices/eshop/Ordering/Ordering.Domain/obj/Debug/net10.0/Ordering.Domain.csproj.AssemblyReference.cache
+/home/will/A MyDoc/project/project/project-6-dotnet-eshop-microservices/eshop/Ordering/Ordering.Domain/obj/Debug/net10.0/Ordering.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/will/A MyDoc/project/project/project-6-dotnet-eshop-microservices/eshop/Ordering/Ordering.Domain/obj/Debug/net10.0/Ordering.Domain.AssemblyInfoInputs.cache
+/home/will/A MyDoc/project/project/project-6-dotnet-eshop-microservices/eshop/Ordering/Ordering.Domain/obj/Debug/net10.0/Ordering.Domain.AssemblyInfo.cs
+/home/will/A MyDoc/project/project/project-6-dotnet-eshop-microservices/eshop/Ordering/Ordering.Domain/obj/Debug/net10.0/Ordering.Domain.csproj.CoreCompileInputs.cache
+/home/will/A MyDoc/project/project/project-6-dotnet-eshop-microservices/eshop/Ordering/Ordering.Domain/obj/Debug/net10.0/Ordering.Domain.sourcelink.json
