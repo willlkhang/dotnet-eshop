@@ -1,5 +1,3 @@
-using Ordering.Domain.Abstraction;
-
 namespace Ordering.Domain.Models;
 
 public class Customer : Entity<Guid>
